@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Live location app</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
