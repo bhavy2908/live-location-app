@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203731233733",
+    "project_id": "live-location-app-c6d43",
+    "storage_bucket": "live-location-app-c6d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203731233733:android:cb5ccdcbdb407e7e16b9ac",
+        "android_client_info": {
+          "package_name": "com.example.livelocationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203731233733-r2ms0f9fqaa6q6okcnja8sri91sa05gm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZK4M3IkojQXEAGgtBq4vMtNwlH4-mAFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203731233733-r2ms0f9fqaa6q6okcnja8sri91sa05gm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
