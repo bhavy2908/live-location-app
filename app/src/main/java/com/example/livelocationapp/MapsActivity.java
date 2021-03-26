@@ -40,7 +40,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         setContentView(R.layout.activity_maps);
         manager = (LocationManager) getSystemService(LOCATION_SERVICE);
         reference = FirebaseDatabase.getInstance().getReference().child("User-101");
-        //FirebaseDatabase.getInstance().getReference().setValue("Working Perfectly");
         // Obtain the SupportMapFragment and get notified when the map is ready to be used.
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
